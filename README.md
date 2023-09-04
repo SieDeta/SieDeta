@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deta dirganjaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deta dirganjaya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deta-dirganjaya-350b89251/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deta dirganjaya" height="30" width="40" /></a>
 <a href="https://instagram.com/siedeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siedeta" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@detadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@detadir" height="30" width="40" /></a>
 <a href="https://discord.gg/discordapp.com/users/_hazet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/_hazet" height="30" width="40" /></a>
