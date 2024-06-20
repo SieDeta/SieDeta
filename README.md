@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **deta.semarang@gmail.com**
 
-- ⚡ Portofolio : siedeta.github.io**
+- ⚡ Portofolio : **siedeta.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
