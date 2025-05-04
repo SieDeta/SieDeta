@@ -3,8 +3,6 @@
 <h3 align="center">An enthusiastic developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9paTRhZXd4cG96anFtdHcwcHdoN2NqOWk3OTJheGt4eDJrOGtieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siedeta&label=Profile%20views&color=0e75b6&style=flat" alt="siedeta" /> </p>
-
 - 📫 How to reach me **deta.semarang@gmail.com**
 
 - ⚡ Portofolio : **[siedeta.vercel.app](https://siedeta.vercel.app/)**
